@@ -440,5 +440,7 @@ footer {
     height: 150px;
     width: auto;
     vertical-align: middle;
-    margin-left: 10px;
+    margin-left: -15px;
+    position: relative;
+    top: -10px;
 }
