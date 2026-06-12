@@ -277,7 +277,8 @@ body {
 }
 
 .price-card.featured {
-  border: 3px solid var(--green);
+  border: 3px solid #6f947f
+    background:  #dce8df;
 }
 
 .price-card h3 {
