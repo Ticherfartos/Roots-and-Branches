@@ -5,9 +5,9 @@
 :root {
   --green: #285f45;
   --deep-green: #1f4b36;
-  --pale-cream: #fbf8ef;
-  --cream: #f5efe2;
-  --gold: #c49a35;
+  --pale-cream: #f4f8f5;
+  --cream: #e8f2ed;
+  --gold: #2f6b57;
   --text: #26332d;
   --soft-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
 }
